@@ -12,13 +12,14 @@ Where do they operate?
 
 Which three services map closest to a junior SOC or cyber analyst role?
 	Cyber Resilience which manages cyber security and vulnerabilities
-Data Protection which safeguards data and privacy in the network 
-IT Operations which contribute to learning network operations through managing services and infrastructure
+	Data Protection which safeguards data and privacy in the network 
+	IT Operations which contribute to learning network operations through managing services and infrastructure
 
 List five terms you must be able to explain.
-	MDR - Managed Detection and Response
-  SOC - Security Operations Center
-	Vulnerability Management
-	BCDR - Business Continuity and Disaster Recovery
-	GRC Services - Governance, Risk and Compliance
-	Automation
+
+	MDR - Managed Detection and Response - A human-led 24/7 service that combines technology and expert analysis to monitor networks and cloud environments for threat
+  	SOC - Security Operations Center -  A dedicated team and command center that continuously monitors, detects, analyzes, and responds to cybersecurity incidents across an organization's IT infrastructure
+	Vulnerability Management - A continuous cybersecurity practice that helps organizations identify, evaluate, remediate, and report security weaknesses before attackers can exploit them
+	BCDR - Business Continuity and Disaster Recovery -  A strategy that helps an organization maintain or quickly resume essential functions during and after a disruptive incident
+	GRC Services - Governance, Risk and Compliance - An integrated strategy that aligns an organization's business goals with its risk management and regulatory requirement
+	Automation - The use of technology, software, or machinery to perform tasks with minimal human intervention
