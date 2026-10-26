@@ -2,4 +2,4 @@
 
 
 Company Map:
-  The company 
+  The company offers various security services to organisations whihc require network security. 
