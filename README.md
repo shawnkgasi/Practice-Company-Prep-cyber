@@ -2,4 +2,4 @@
 
 
 Company Map:
-  The company offers various security services to organisations whihc require network security. 
+  Numata is an international security company. The company offers various security services to organisations which seek or require network security. 
