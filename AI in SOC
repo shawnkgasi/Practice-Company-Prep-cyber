@@ -1,0 +1,9 @@
+There are many ways AI can be implemented to help a Numata-style SOC analysts without having to replace them.
+
+  •	The AI can be used to help with noise reduction by filtering and prioritizing attacks to ensure the highest possible threats are dealt with first. Analysts can also observe alerts to ensure the AI has not missed or not prioritized a significant threat.
+  •	AI can be useful for instant incident summarization which can decrease the load of work for the analyst so they may prioritize security operations and not have to spend too much time doing research.
+  •	AI can also be used to generate scripts and translate natural-language queries to allow analysts to build using custom logic. Analysts can ensure the scripts are compatible with the software and retest the scripts to ensure they do not create any vulnerabilities.
+  •	AI can also be used for automated routine executions when paired with Security Orchestration, Automation and Response (SOAR) which can help analysts with executing protocols and mitigating threats.
+  •	A bad use of AI would be being overly reliant on the software without verifying outputs. This places crucial decisions in the hands of the software which does not have a human level of empathy and contextual understanding. Lacking those could negatively impact the organisation.
+
+Human intervention will still be crucial to the operations of the SOC. People will be responsible for final decisions which add context and accountability to maintain the ethical responsibility of the organisation. 
