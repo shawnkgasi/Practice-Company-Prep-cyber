@@ -1,6 +1,6 @@
 A Security Operations Centre, or SOC, acts as an organization's central command post for cybersecurity. Their primary mission is to continuously monitor, detect, triage, and respond to cyber threats before they cause damage.
 
-This can be acheived through a structured plan:
+This can be achieved through a structured plan:
   •	Monitoring: Ingesting live telemetry—like firewall logs, endpoint data, and cloud activity—into a SIEM system to maintain 24/7 visibility.
   •	Alerting: When data violates built-in correlation rules or behavioural baselines, the SIEM triggers an alert.
   •	Triage: For an analyst, the objective is to investigate these alerts to separate true security incidents from harmless false positives, escalating critical threats for immediate containment.
