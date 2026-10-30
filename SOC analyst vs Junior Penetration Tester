@@ -1,0 +1,45 @@
+Write short comparison table: SOC analyst day-to-day VS jnr pen-tester day-to-day
+
+SOC analyst	
+Goals
+Detect, contain and eradicate active attacks or suspicious behaviour in the network.
+Triage and investigate security alerts, isolate infected hosts, conduct proactive threat hunting.
+
+Tools
+SIEM and EDR would be crucial to detecting anomalies.
+Network and Forensic Analysis through tools such as Wireshark.
+
+Success measure
+How quickly malicious behaviour is recognized and contained in the network.
+The ability to filter out noise and false positives without missing true positives.
+Writing and defining detection signatures.
+
+Risk
+Shift unpredictability and alert fatigue
+
+
+Junior Penetration Tester
+Goals	
+Uncover hidden vulnerabilities, prove exploitation impacts, and help patch gaps before a real attack.
+Reconnaissance and OSINT on targets, simulate real-world attack chains, retest fixes after remediation.
+
+Tools	
+The holy trinity of pentesting refers to Nmap, Burp Suite and Metasploit. 
+Custom scripts can also be used for exploitation.
+
+Success measure	
+Severity and impact of findings based on how they can negatively affect the organisation.
+Report quality and clarity paired with proof of concept are important.
+
+Risk	
+Deadline and delivery pressure
+Breaking production server mid-test
+
+5 bullets on how AI could help after enumeration and what you would still do by hand
+
+  •	Automated data cleaning which rapidly identifies and fixes formatting errors. Data can be verified by analysts to create contextual understanding
+  •	Advanced pattern recognition through machine learning to detect hidden trends and anomalies that humans may miss. People can be given the responsibility of ensuring data integrity and accuracy.
+  •	Predictive forecasting can be used to project future resource needs and demands. Humans will be responsible for presenting data to clients and boards to build trust and get assistance.
+  •	Generative AI can instantly translate complex raw data into readable reports or summaries. Humans will be responsible for strategic decision making based on data findings.
+  •	AI can automatically tag and group unstructured notes which humans can then review to maintain ethical responsibility and ensure there is no biased output of assumptions.
+ 
