@@ -1,0 +1,33 @@
+Invent realistic ticket they might get and write 15min response plan:
+
+
+
+
+TICKET:
+Ticket ID: INC-2026-8941
+Severity: High
+Title: Potential Executive Mailbox Compromise & Financial Phishing
+Description: Automated alert from email security gateway (e.g., Mimecast/Defender) flags a suspicious external login to the O365 mailbox of a Senior Fintech Product Manager. Five minutes later, an email is sent from this mailbox requesting an urgent update to banking details.
+
+
+Response Plan
+
+Who I Notify
+  •	Internal Security Team: Alert the SOC Lead and the Incidence Response Team.
+  •	Affected User: Notify the Product Manager through an external channel to confirm if they are currently traveling or accessing their mail from an unusual location.
+  •	Finance Head: Issue a high-priority warning to the finance department to halt any pending vendor banking detail updates or manual payouts immediately.
+
+What You Check First 
+  •	Identity & Authentication Logs: Check for the user's recent sign-in history. Look for impossible travel, unfamiliar IP addresses, or anomalous User-Agent strings.
+  •	Mailbox Audit Logs: Audit recent activity on the compromised mailbox to check for the creation of malicious inbox routing rules.
+  •	Extent of affect: Run a message trace to find exactly how many internal employees received the phishing link or attachment from the compromised account.
+
+What I DO NOT Do Yet 
+  •	Do not delete the emails globally yet: Avoid permanently purging the phishing emails from the entire tenant until you have extracted the network indicators like malicious URLs or attachment hashes for blocking.
+  •	Do not tip off the attacker: Avoid sending an email directly to the compromised mailbox as the attacker may see it and immediately begin destructive actions or data exfiltration.
+  •	Do not perform a hard system wipe: Do not delete or wipe the user’s primary laptop or devices before determining if the compromise was cloud-based or endpoint-based.
+
+How to Document It
+  •	Use a structured, time-stamped log within your ticketing system
+  •	Document all messages and interactions related to the affected user
+  •	Keep track of each interaction and use a timestamp to show the speed of the process and its effect
