@@ -1,0 +1,32 @@
+The Crown Jewel Room TryHackMe
+
+Reverse Shell Execution Alert
+  -	This is an alert indicating that someone is attempting to create a reverse shell to connect within the network and exploit it.
+  -	This is a high severity alert because it is a sign of threat detection and should be dealt with promptly.
+  -	The first investigation step would be to check for impossible location logins.
+  -	The next step would be to discover which device prompted the alert.
+  -	The third step would be to find figure out if any data has been transported via the device.
+
+Various ARP spoofing alerts
+  -	These alerts give information about what MAC address the attacker was falsely using.
+  -	This is a signal as to where the attack may have started and how the network was tricked into accepting this connection.
+  -	This is a high severity alert because it indicates that the network has granted access to an unauthorized user.
+  -	The first step of investigation would be to analyse traffic logs for a recurring device.
+  -	The second step would be to cross-check all MAC and IPs to ensure MAC addresses are allocated to resident devices.
+  -	The third step would be to check where the spoofing IP could be coming from to conduct an investigation.
+
+Plaintext login details
+  -	This finding displays user login details written in plaintext which allowed the attacker to access the network through user credentials.
+  -	This signals weak encryption policies on the network which is a serious vulnerability.
+  -	This is a critical level severity alert because this means an attacker could gain highly confidential information and access the network.
+  -	The first step would be to alert the user of the login and find out if they are indeed logging in.
+  -	The second step is to analyse network traffic for logins in impossible areas.
+  -	The third step is to analyse network data and test for encryption.
+
+Signs of data exfiltration
+  -	This finding is seen through data being sent from internal IPs to an external unknown domain through DNS
+  -	This shows that the DNS protocol may be vulnerable and the port needs to be filtered.
+  -	This is a critical severity because data has already been lost through this vulnerability.
+  -	The first step would be to figure out which device is responsible for the loss of data.
+  -	The second step would be to figure out what or how much data has been lost.
+  -	The third step would be to try find out where the information is being transferred.
