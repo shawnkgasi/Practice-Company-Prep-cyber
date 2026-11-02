@@ -13,3 +13,21 @@ Business Model Brief:
 
 Role Match:
   The closest role to match my skills would be a Data and Financial Analyst which allows my to gain knowledge and understanding to the financial operations of the organisation while continuing to grow my data analysis skills and understanding.
+
+
+Scenario Drill for their world:
+  There are various alerts and tickets that Lesaka may receive over time.
+  This is an example of a ticket they would receive.
+  There are also a few steps of investigation to observe and contain the threat.
+
+Lesaka vs Numata:
+  I have conducted research on two companies; Numata and Lesaka Technologies.
+  This is a comparison between the two based on my understanding of their operations.
+  The junior roles mentioned are those available at this current point in time.
+
+AI in role:
+  There are various ways to implement AI into SOC related roles.
+  This is an explanation of how it could be implemented into the role without replacing the people who were initially responsible for these processes.
+
+Reflection:
+  A short reflection on the two companies I have researched and what I think about them.
