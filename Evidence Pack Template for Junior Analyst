@@ -1,0 +1,42 @@
+South Africa's Protection of Personal Information Act (POPIA) is the country's primary data privacy and protection law. POPIA carries fines up to R10 million or result in criminal liability.
+The CIS Critical Security Controls (CIS Controls) are a prioritized set of CIS Safeguards to defend against the most prevalent cyber attacks against systems and networks.
+
+A managed SOC can block threats, but without audit-ready logs, reports, and incident response timelines, a client cannot prove that they took reasonable measures if a breach occurs.
+
+Audit-ready evidence serves as a legal shield to mitigate or avoid massive POPIA fines and criminal liability by demonstrating proactive compliance. Audit-ready evidence also provides standardized, tamper-evident logs which verify that centralized log collection is active, security events are being reviewed and analysed daily, and authorized and unauthorized changes are tracked.
+
+
+
+
+
+Evidence Pack Template
+
+
+SOC EVIDENCE REPORT
+
+Client Name: [Insert Client Name] 
+Reporting Period: [Month / Year] 
+Prepared By: [Junior Analyst Name] 
+Reviewed By: [SOC Lead / L3 Analyst]
+
+1. Executive Summary
+Status Overview containing in-scope assets monitored and unaddressed critical breaches.
+
+2. Core Operational Evidence Checklist 
+  -	Evidence Item
+  -	Centralized SIEM Log Ingestion Health
+  -	Vulnerability Scan Summary & Patch Status
+  -	Privileged Access Review Log
+  -	Incident Response & Escalation Log
+  -	Operator / SOC SLA Response Sign-off
+
+
+3. Incident & Alert Summary
+  •	Total Alerts Triage Count
+  •	False Positives / Noise Filtered
+  •	True Incidents and escalation
+  •	Unresolved Findings / Gaps
+
+4. Sign-Off 
+  •	Junior Analyst Signature and Timestamp
+  •	Lead Analyst Signature & Date
